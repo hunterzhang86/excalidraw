@@ -13,6 +13,12 @@
 }
 
 @font-face {
+  font-family: "HannotateSC";
+  src: url("HannotateSC-W5.ttf");
+  font-display: swap;
+}
+
+@font-face {
   font-family: "Assistant";
   src: url("Assistant-Regular.woff2");
   font-display: swap;
